@@ -1,7 +1,6 @@
 name: kepi
 favicon: null
-layout_spectrum: null
-typography_spectrum: null
+title: Kepi
 cta:
   domain: null
   bucket: null
