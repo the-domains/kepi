@@ -1,0 +1,23 @@
+name: null
+favicon: null
+layout_spectrum: 0.8994351639412344
+typography_spectrum: 0.14678768976591527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.11803633696399629
+  lightness: 0.25550653995014727
+  saturation: 0.20038711139932275
+  rhythmicContrast: 0.37698059692047536
+purpose: []
