@@ -1,5 +1,7 @@
 name: kepi
 favicon: null
+layout_spectrum: 0.5
+typography_spectrum: 0.50846
 title: Kepi
 cta:
   domain: null
@@ -14,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: null
+  brandColors:
+    - '#acbba5'
+    - '#588594'
+    - '#2b0e29'
+    - '#e9da30'
+    - '#cf7639'
+  brandStrength: 0.5
   lightness: null
   saturation: null
   rhythmicContrast: null
